@@ -1,0 +1,183 @@
+[2022-01-06 20:39:58.388] [exthost] [info] Extension host with pid 1955 started
+[2022-01-06 20:39:58.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-06 20:39:58.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-06 20:39:58.510] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-06 20:39:58.527] [exthost] [info] Eager extensions activated
+[2022-01-06 20:39:58.540] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-06 20:40:35.084] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-06 20:40:35.088] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-06 20:40:35.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-06 20:40:35.149] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-06 20:40:36.885] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-06 20:41:14.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-06 20:43:10.749] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-06 20:43:11.754] [exthost] [info] Extension host with pid 1955 exiting with code 0
+[2022-01-06 20:43:12.391] [exthost] [info] Extension host with pid 2483 started
+[2022-01-06 20:43:12.391] [exthost] [info] Skipping acquiring lock for /home/vvcaw/.config/Code - OSS/User/workspaceStorage/02ae30969a4c28334dbe309abcee28f3.
+[2022-01-06 20:43:12.429] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-06 20:43:12.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-06 20:43:12.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-06 20:43:12.472] [exthost] [info] Eager extensions activated
+[2022-01-06 20:43:12.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-06 20:43:12.474] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-06 20:43:55.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-06 20:43:55.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-06 20:43:55.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-06 20:43:55.146] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-06 20:43:56.500] [exthost] [info] ExtensionService#_doActivateExtension justusadam.language-haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-06 20:43:56.504] [exthost] [info] ExtensionService#_doActivateExtension haskell.haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-06 20:44:00.043] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:00.046] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:04.595] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:04.595] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:05.896] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:05.896] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:07.273] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:07.273] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:08.831] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:08.831] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:09.137] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:09.137] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:10.305] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:10.306] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:10.714] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:10.714] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:12.618] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:12.618] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:13.690] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:13.691] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:15.818] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:15.818] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:16.464] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:16.465] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:17.654] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:17.654] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:18.187] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:18.188] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:19.670] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:19.670] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:20.640] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:20.641] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:21.473] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:21.473] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:22.735] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:22.735] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:23.348] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:44:23.349] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:45:06.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-06 20:45:09.283] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-06 20:45:10.289] [exthost] [info] Extension host with pid 2483 exiting with code 0

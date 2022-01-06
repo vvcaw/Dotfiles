@@ -1,0 +1,10 @@
+:q
+main
+:l Main.hs 
+putStrLn "Hi"
+:! clear
+:?
+:q
+:q
+:q
+:set promt ">> "

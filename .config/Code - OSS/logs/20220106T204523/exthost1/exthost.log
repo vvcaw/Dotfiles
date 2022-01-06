@@ -1,0 +1,18 @@
+[2022-01-06 20:45:26.347] [exthost] [info] Extension host with pid 2887 started
+[2022-01-06 20:45:26.347] [exthost] [info] Skipping acquiring lock for /home/vvcaw/.config/Code - OSS/User/workspaceStorage/02ae30969a4c28334dbe309abcee28f3.
+[2022-01-06 20:45:26.377] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-06 20:45:26.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-06 20:45:26.427] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-06 20:45:26.438] [exthost] [info] Eager extensions activated
+[2022-01-06 20:45:26.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-06 20:45:26.441] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-06 20:45:44.387] [exthost] [info] ExtensionService#_doActivateExtension justusadam.language-haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-06 20:45:44.408] [exthost] [info] ExtensionService#_doActivateExtension haskell.haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-06 20:45:45.324] [exthost] [error] [haskell.haskell] provider FAILED
+[2022-01-06 20:45:45.327] [exthost] [error] TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)

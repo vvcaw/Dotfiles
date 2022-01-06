@@ -1,0 +1,24 @@
+[2022-01-06 20:40:35.644] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-01-06 20:40:36.271] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/vvcaw/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.11.0
+[2022-01-06 20:40:36.812] [sharedprocess] [info] Extracted extension to /home/vvcaw/.vscode-oss/extensions/.bba538c7-6858-43db-9698-e99aa7c4494f: pkief.material-icon-theme
+[2022-01-06 20:40:36.817] [sharedprocess] [info] Renamed to /home/vvcaw/.vscode-oss/extensions/pkief.material-icon-theme-4.11.0
+[2022-01-06 20:40:36.818] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-01-06 20:40:36.820] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-01-06 20:40:47.979] [sharedprocess] [info] Installing extension: chrismettal.behave-full-theme
+[2022-01-06 20:40:48.728] [sharedprocess] [info] Downloaded extension: chrismettal.behave-full-theme /home/vvcaw/.config/Code - OSS/CachedExtensionVSIXs/chrismettal.behave-full-theme-1.1.1
+[2022-01-06 20:40:48.743] [sharedprocess] [info] Extracted extension to /home/vvcaw/.vscode-oss/extensions/.c156b83f-3ee1-4967-ab18-22b7b8c2728e: chrismettal.behave-full-theme
+[2022-01-06 20:40:48.747] [sharedprocess] [info] Renamed to /home/vvcaw/.vscode-oss/extensions/chrismettal.behave-full-theme-1.1.1
+[2022-01-06 20:40:48.748] [sharedprocess] [info] Extracting completed. chrismettal.behave-full-theme
+[2022-01-06 20:40:48.748] [sharedprocess] [info] Extension installed successfully: chrismettal.behave-full-theme
+[2022-01-06 20:43:54.803] [sharedprocess] [info] Installing extension: haskell.haskell
+[2022-01-06 20:43:55.341] [sharedprocess] [info] Installing extension: justusadam.language-haskell
+[2022-01-06 20:43:55.855] [sharedprocess] [info] Downloaded extension: justusadam.language-haskell /home/vvcaw/.config/Code - OSS/CachedExtensionVSIXs/justusadam.language-haskell-3.3.0
+[2022-01-06 20:43:55.882] [sharedprocess] [info] Extracted extension to /home/vvcaw/.vscode-oss/extensions/.583f7859-caca-45ca-b8cf-a1119d0ed5ab: justusadam.language-haskell
+[2022-01-06 20:43:55.890] [sharedprocess] [info] Renamed to /home/vvcaw/.vscode-oss/extensions/justusadam.language-haskell-3.3.0
+[2022-01-06 20:43:55.891] [sharedprocess] [info] Extracting completed. justusadam.language-haskell
+[2022-01-06 20:43:56.348] [sharedprocess] [info] Downloaded extension: haskell.haskell /home/vvcaw/.config/Code - OSS/CachedExtensionVSIXs/haskell.haskell-1.8.0
+[2022-01-06 20:43:56.375] [sharedprocess] [info] Extracted extension to /home/vvcaw/.vscode-oss/extensions/.7157e67e-e35b-4c5d-8270-15203b3673fb: haskell.haskell
+[2022-01-06 20:43:56.379] [sharedprocess] [info] Renamed to /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0
+[2022-01-06 20:43:56.380] [sharedprocess] [info] Extracting completed. haskell.haskell
+[2022-01-06 20:43:56.381] [sharedprocess] [info] Extension installed successfully: justusadam.language-haskell
+[2022-01-06 20:43:56.382] [sharedprocess] [info] Extension installed successfully: haskell.haskell
