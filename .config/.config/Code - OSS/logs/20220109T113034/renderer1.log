@@ -1,0 +1,16 @@
+[2022-01-09 11:30:35.555] [renderer1] [info] Starting extension host with pid 6247.
+[2022-01-09 11:30:35.555] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 17 ms.
+[2022-01-09 11:30:35.942] [renderer1] [error] [Extension Host] (node:6247) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-09 11:30:48.206] [renderer1] [error] Error: Unable to read file '/home/vvcaw/dev/BWINF/Aufgabe2/Main.hs' (Error: Unable to resolve nonexistent file '/home/vvcaw/dev/BWINF/Aufgabe2/Main.hs')
+    at i.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:143410)
+    at i.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:147201)
+    at i.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:143104)
+    at async n.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:34632)
+    at async n.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:33032)
+    at async n.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:32680)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2544:16967
+[2022-01-09 11:37:20.642] [renderer1] [info] Starting extension host with pid 9915.
+[2022-01-09 11:37:20.643] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 18 ms.
+[2022-01-09 11:37:20.855] [renderer1] [error] [Extension Host] (node:9915) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)

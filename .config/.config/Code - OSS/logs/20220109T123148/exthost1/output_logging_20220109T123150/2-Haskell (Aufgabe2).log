@@ -1,0 +1,15 @@
+2022-01-09 11:31:50.3480000 [client] INFO Searching for server executables haskell-language-server-wrapper,haskell-language-server in $PATH
+2022-01-09 11:31:50.3480000 [client] INFO $PATH environment variable: /home/vvcaw/.cabal/bin:/home/vvcaw/.ghcup/bin:/home/vvcaw/.local/bin:/home/vvcaw/.emacs.d/bin:/home/vvcaw/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+2022-01-09 11:31:50.3540000 [client] INFO Downloading haskell-language-server
+2022-01-09 11:31:50.3550000 [client] INFO Using /home/vvcaw/.config/Code - OSS/User/globalStorage/haskell.haskell to store downloaded binaries
+2022-01-09 11:31:50.3550000 [client] INFO Fetching the latest release from GitHub or from cache
+2022-01-09 11:31:51.3690000 [client] INFO The latest known release is 1.5.1
+2022-01-09 11:31:51.3690000 [client] INFO Figure out the ghc version to use or advertise an installation link for missing components
+2022-01-09 11:31:51.3690000 [client] INFO Working out the project GHC version. This might take a while...
+2022-01-09 11:31:51.3760000 [client] INFO Executing '/home/vvcaw/.config/Code - OSS/User/globalStorage/haskell.haskell/haskell-language-server-wrapper-1.5.1-linux --project-ghc-version' in cwd '/home/vvcaw/dev/BWINF/Aufgabe2' to get the project or file ghc version
+2022-01-09 11:31:51.3890000 [client] INFO Execution of '/home/vvcaw/.config/Code - OSS/User/globalStorage/haskell.haskell/haskell-language-server-wrapper-1.5.1-linux --project-ghc-version' terminated with code 1
+2022-01-09 11:31:51.3900000 [client] ERROR Error executing '/home/vvcaw/.config/Code - OSS/User/globalStorage/haskell.haskell/haskell-language-server-wrapper-1.5.1-linux --project-ghc-version' with error code 1
+2022-01-09 11:31:51.3900000 [client] ERROR stderr: No 'hie.yaml' found. Try to discover the project type!
+Cradle requires ghc but couldn't find it
+Cradle {cradleRootDir = "/home/vvcaw/dev/BWINF/Aufgabe2", cradleOptsProg = CradleAction: Default}
+

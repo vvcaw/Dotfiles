@@ -1,0 +1,10 @@
+[2022-01-09 11:55:42.742] [renderer1] [info] Starting extension host with pid 743.
+[2022-01-09 11:55:42.742] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 18 ms.
+[2022-01-09 11:55:42.997] [renderer1] [error] [Extension Host] (node:743) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-09 11:56:20.378] [renderer1] [info] Starting extension host with pid 1011.
+[2022-01-09 11:56:20.379] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 18 ms.
+[2022-01-09 11:56:20.597] [renderer1] [error] [Extension Host] (node:1011) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-09 11:58:43.888] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/extension-editing/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/extension-editing/package.json'
+[2022-01-09 11:58:50.175] [renderer1] [error] [Extension Host] VSCODE-HLINT Cannot hlint the haskell file. The hlint program was not found. Use the 'haskell.hlint.executablePath' setting to configure the location of 'hlint'

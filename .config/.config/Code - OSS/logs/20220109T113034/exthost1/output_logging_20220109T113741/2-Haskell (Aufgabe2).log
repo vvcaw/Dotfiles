@@ -1,0 +1,98 @@
+2022-01-09 10:37:41.9570000 [client] INFO Searching for server executables haskell-language-server-wrapper,haskell-language-server in $PATH
+2022-01-09 10:37:41.9570000 [client] INFO $PATH environment variable: /home/vvcaw/.cabal/bin:/home/vvcaw/.ghcup/bin:/home/vvcaw/.emacs.d/bin:/home/vvcaw/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+2022-01-09 10:37:41.9600000 [client] INFO Found server executable in $PATH: haskell-language-server-wrapper
+2022-01-09 10:37:41.9600000 [client] INFO Activating the language server in working dir: /home/vvcaw/dev/BWINF/Aufgabe2 (the workspace folder)
+2022-01-09 10:37:41.9600000 [client] INFO run command: haskell-language-server-wrapper --lsp
+2022-01-09 10:37:41.9600000 [client] INFO debug command: haskell-language-server-wrapper --lsp
+2022-01-09 10:37:41.9600000 [client] INFO server environment variables:
+2022-01-09 10:37:41.9630000 [client] INFO Starting language server
+No 'hie.yaml' found. Try to discover the project type!
+Run entered for haskell-language-server-wrapper(haskell-language-server-wrapper) Version 1.5.1.0, Git revision 745ef26f406dbdd5e4a538585f8519af9f1ccb09 (dirty) x86_64 ghc-8.10.7
+Current directory: /home/vvcaw/dev/BWINF/Aufgabe2
+Operating system: linux
+Arguments: ["--lsp"]
+Cradle directory: /home/vvcaw/dev/BWINF/Aufgabe2
+Cradle type: Default
+
+Tool versions found on the $PATH
+cabal:		3.6.2.0
+stack:		2.7.3
+ghc:		Not found
+
+
+Consulting the cradle to get project GHC version...
+Cradle requires ghc but couldn't find it
+Cradle {cradleRootDir = "/home/vvcaw/dev/BWINF/Aufgabe2", cradleOptsProg = CradleAction: Default}
+[Info  - 11:37:41 AM] Connection to server got closed. Server will restart.
+No 'hie.yaml' found. Try to discover the project type!
+Run entered for haskell-language-server-wrapper(haskell-language-server-wrapper) Version 1.5.1.0, Git revision 745ef26f406dbdd5e4a538585f8519af9f1ccb09 (dirty) x86_64 ghc-8.10.7
+Current directory: /home/vvcaw/dev/BWINF/Aufgabe2
+Operating system: linux
+Arguments: ["--lsp"]
+Cradle directory: /home/vvcaw/dev/BWINF/Aufgabe2
+Cradle type: Default
+
+Tool versions found on the $PATH
+cabal:		3.6.2.0
+stack:		2.7.3
+ghc:		Not found
+
+
+Consulting the cradle to get project GHC version...
+Cradle requires ghc but couldn't find it
+Cradle {cradleRootDir = "/home/vvcaw/dev/BWINF/Aufgabe2", cradleOptsProg = CradleAction: Default}
+[Info  - 11:37:42 AM] Connection to server got closed. Server will restart.
+No 'hie.yaml' found. Try to discover the project type!
+Run entered for haskell-language-server-wrapper(haskell-language-server-wrapper) Version 1.5.1.0, Git revision 745ef26f406dbdd5e4a538585f8519af9f1ccb09 (dirty) x86_64 ghc-8.10.7
+Current directory: /home/vvcaw/dev/BWINF/Aufgabe2
+Operating system: linux
+Arguments: ["--lsp"]
+Cradle directory: /home/vvcaw/dev/BWINF/Aufgabe2
+Cradle type: Default
+
+Tool versions found on the $PATH
+cabal:		3.6.2.0
+stack:		2.7.3
+ghc:		Not found
+
+
+Consulting the cradle to get project GHC version...
+Cradle requires ghc but couldn't find it
+Cradle {cradleRootDir = "/home/vvcaw/dev/BWINF/Aufgabe2", cradleOptsProg = CradleAction: Default}
+[Info  - 11:37:42 AM] Connection to server got closed. Server will restart.
+No 'hie.yaml' found. Try to discover the project type!
+Run entered for haskell-language-server-wrapper(haskell-language-server-wrapper) Version 1.5.1.0, Git revision 745ef26f406dbdd5e4a538585f8519af9f1ccb09 (dirty) x86_64 ghc-8.10.7
+Current directory: /home/vvcaw/dev/BWINF/Aufgabe2
+Operating system: linux
+Arguments: ["--lsp"]
+Cradle directory: /home/vvcaw/dev/BWINF/Aufgabe2
+Cradle type: Default
+
+Tool versions found on the $PATH
+cabal:		3.6.2.0
+stack:		2.7.3
+ghc:		Not found
+
+
+Consulting the cradle to get project GHC version...
+Cradle requires ghc but couldn't find it
+Cradle {cradleRootDir = "/home/vvcaw/dev/BWINF/Aufgabe2", cradleOptsProg = CradleAction: Default}
+[Info  - 11:37:42 AM] Connection to server got closed. Server will restart.
+No 'hie.yaml' found. Try to discover the project type!
+Run entered for haskell-language-server-wrapper(haskell-language-server-wrapper) Version 1.5.1.0, Git revision 745ef26f406dbdd5e4a538585f8519af9f1ccb09 (dirty) x86_64 ghc-8.10.7
+Current directory: /home/vvcaw/dev/BWINF/Aufgabe2
+Operating system: linux
+Arguments: ["--lsp"]
+Cradle directory: /home/vvcaw/dev/BWINF/Aufgabe2
+Cradle type: Default
+
+Tool versions found on the $PATH
+cabal:		3.6.2.0
+stack:		2.7.3
+ghc:		Not found
+
+
+Consulting the cradle to get project GHC version...
+Cradle requires ghc but couldn't find it
+Cradle {cradleRootDir = "/home/vvcaw/dev/BWINF/Aufgabe2", cradleOptsProg = CradleAction: Default}
+[Error - 11:37:42 AM] Connection to server got closed. Server will not be restarted.

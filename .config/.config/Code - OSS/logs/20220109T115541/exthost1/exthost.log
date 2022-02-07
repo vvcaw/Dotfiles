@@ -1,0 +1,33 @@
+[2022-01-09 11:55:43.314] [exthost] [info] Extension host with pid 743 started
+[2022-01-09 11:55:43.314] [exthost] [info] Skipping acquiring lock for /home/vvcaw/.config/Code - OSS/User/workspaceStorage/02ae30969a4c28334dbe309abcee28f3.
+[2022-01-09 11:55:43.370] [exthost] [info] ExtensionService#_doActivateExtension justusadam.language-haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-09 11:55:43.373] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-09 11:55:43.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-09 11:55:43.447] [exthost] [info] ExtensionService#_doActivateExtension haskell.haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-09 11:55:43.497] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-09 11:55:43.513] [exthost] [info] Eager extensions activated
+[2022-01-09 11:55:43.519] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-09 11:55:43.521] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-09 11:56:13.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 11:56:13.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 11:56:13.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 11:56:13.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 11:56:19.223] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-09 11:56:20.226] [exthost] [info] Extension host with pid 743 exiting with code 0
+[2022-01-09 11:56:21.035] [exthost] [info] Extension host with pid 1011 started
+[2022-01-09 11:56:21.035] [exthost] [info] Skipping acquiring lock for /home/vvcaw/.config/Code - OSS/User/workspaceStorage/02ae30969a4c28334dbe309abcee28f3.
+[2022-01-09 11:56:21.099] [exthost] [info] ExtensionService#_doActivateExtension justusadam.language-haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-09 11:56:21.101] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-09 11:56:21.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-09 11:56:21.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-09 11:56:21.184] [exthost] [info] Eager extensions activated
+[2022-01-09 11:56:21.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-09 11:56:21.205] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-09 11:56:31.118] [exthost] [info] ExtensionService#_doActivateExtension haskell.haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-09 11:56:31.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 11:56:31.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 11:56:31.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 11:56:31.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 11:58:49.910] [exthost] [info] ExtensionService#_doActivateExtension hoovercj.haskell-linter, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-09 12:04:06.440] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-09 12:04:07.446] [exthost] [info] Extension host with pid 1011 exiting with code 0

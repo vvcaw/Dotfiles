@@ -1,6 +1,8 @@
 #!/bin/bash
 # Install essential packages
-sudo pacman -S i3-gaps i3lock i3status i3blocks ttf-dejavu rust firefox rofi xorg-xrandr nitrogen fish ttf-ubuntu-font-family git emacs ripgrep fd stack ghc-static haskell-language-server ttf-font-awesome powerline-fonts picom code
+sudo pacman -S i3-gaps i3lock i3status i3blocks ttf-dejavu rust firefox rofi xorg-xrandr nitrogen fish ttf-ubuntu-font-family git emacs ripgrep fd ttf-font-awesome powerline-fonts picom code
+
+# For installing Haskell compilers just use ghcup
 
 # Install alacritty
 sudo cargo install alacritty

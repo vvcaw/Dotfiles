@@ -1,0 +1,31 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="24I8e92UTA092WgDZWdwahdEfbz">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="Markdown Split EditorLayout" value="Editor and Preview" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="CL-213.6461.75-97b8436afb34d3059edce540b892583c55541210469d9870357b9f2919546eda" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="bundled.plugins.list.saved.version" value="CL-213.6461.75" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="file.gist.reindex.count" value="6" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="gotit.previous.run" value="CL-213.6461.75" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-213.6461.75" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.4.4" />
+  </component>
+</application>

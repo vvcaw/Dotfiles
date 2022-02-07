@@ -1,0 +1,13 @@
+[2022-01-09 11:56:17.149] [sharedprocess] [info] Uninstalling extension: haskell.haskell
+[2022-01-09 11:56:17.465] [sharedprocess] [info] Detected extension removed from another source haskell.haskell
+[2022-01-09 11:56:17.552] [sharedprocess] [info] Successfully uninstalled extension: haskell.haskell
+[2022-01-09 11:56:30.928] [sharedprocess] [info] Installing extension: haskell.haskell
+[2022-01-09 11:56:31.038] [sharedprocess] [info] Downloaded extension: haskell.haskell /home/vvcaw/.config/Code - OSS/CachedExtensionVSIXs/haskell.haskell-1.8.0
+[2022-01-09 11:56:31.059] [sharedprocess] [info] Removed the extension from uninstalled list: haskell.haskell
+[2022-01-09 11:56:31.063] [sharedprocess] [info] Extension installed successfully: haskell.haskell
+[2022-01-09 11:58:49.060] [sharedprocess] [info] Installing extension: hoovercj.haskell-linter
+[2022-01-09 11:58:49.813] [sharedprocess] [info] Downloaded extension: hoovercj.haskell-linter /home/vvcaw/.config/Code - OSS/CachedExtensionVSIXs/hoovercj.haskell-linter-0.0.6
+[2022-01-09 11:58:49.838] [sharedprocess] [info] Extracted extension to /home/vvcaw/.vscode-oss/extensions/.3912d607-027e-4478-b18b-4896212cc848: hoovercj.haskell-linter
+[2022-01-09 11:58:49.843] [sharedprocess] [info] Renamed to /home/vvcaw/.vscode-oss/extensions/hoovercj.haskell-linter-0.0.6
+[2022-01-09 11:58:49.843] [sharedprocess] [info] Extracting completed. hoovercj.haskell-linter
+[2022-01-09 11:58:49.844] [sharedprocess] [info] Extension installed successfully: hoovercj.haskell-linter

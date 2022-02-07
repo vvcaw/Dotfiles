@@ -1,0 +1,112 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1642005833475" />
+    </e>
+    <e n="$Undo">
+      <i c="1" l="1641728593533" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="44" l="1641728617966" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="2" l="1641728139266" />
+    </e>
+    <e n="EditorCloneCaretAbove">
+      <i c="1" l="1641728051926" />
+    </e>
+    <e n="EditorCloneCaretBelow">
+      <i c="1" l="1641728032205" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1642005834016" />
+    </e>
+    <e n="EditorCut">
+      <i c="6" l="1641728644948" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="9" l="1641728509353" />
+    </e>
+    <e n="EditorDown">
+      <i c="33" l="1641728615500" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="2" l="1641728643825" />
+    </e>
+    <e n="EditorEnter">
+      <i c="6" l="1641728142587" />
+    </e>
+    <e n="EditorEscape">
+      <i c="8" l="1641728622576" />
+    </e>
+    <e n="EditorLeft">
+      <i c="20" l="1641728522680" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="3" l="1641728604356" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="5" l="1641728528877" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="6" l="1641728644666" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="13" l="1641728615706" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="3" l="1641728192563" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="28" l="1641728612148" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="6" l="1641728512792" />
+    </e>
+    <e n="EditorPaste">
+      <i c="6" l="1641728613012" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="11" l="1641728614400" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="17" l="1641728612678" />
+    </e>
+    <e n="EditorRight">
+      <i c="22" l="1641728606166" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="2" l="1641728523216" />
+    </e>
+    <e n="EditorTab">
+      <i c="6" l="1641728215325" />
+    </e>
+    <e n="EditorUp">
+      <i c="16" l="1641728613926" />
+    </e>
+    <e n="FileChooser.ShowHiddens">
+      <i c="6" l="1641727727542" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1641727559594" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1641727668714" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1641727195949" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="1" l="1641727695758" />
+    </e>
+    <e n="com.intellij.notification.EventLogConsole$ClearLogAction">
+      <i c="1" l="1641727804191" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="2" l="1642005848747" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="1" l="1642005797393" />
+    </e>
+  </component>
+</application>

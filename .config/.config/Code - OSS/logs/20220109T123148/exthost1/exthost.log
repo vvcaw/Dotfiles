@@ -1,0 +1,15 @@
+[2022-01-09 12:31:50.161] [exthost] [info] Extension host with pid 16447 started
+[2022-01-09 12:31:50.161] [exthost] [info] Skipping acquiring lock for /home/vvcaw/.config/Code - OSS/User/workspaceStorage/02ae30969a4c28334dbe309abcee28f3.
+[2022-01-09 12:31:50.229] [exthost] [info] ExtensionService#_doActivateExtension justusadam.language-haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-09 12:31:50.232] [exthost] [info] ExtensionService#_doActivateExtension hoovercj.haskell-linter, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-09 12:31:50.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-09 12:31:50.237] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-09 12:31:50.301] [exthost] [info] ExtensionService#_doActivateExtension haskell.haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2022-01-09 12:31:50.343] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-09 12:31:50.361] [exthost] [info] Eager extensions activated
+[2022-01-09 12:31:50.365] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-09 12:31:50.367] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-09 12:31:55.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 12:31:55.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 12:31:55.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-09 12:31:55.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'

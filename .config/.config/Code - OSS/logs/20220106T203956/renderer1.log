@@ -1,0 +1,189 @@
+[2022-01-06 20:39:57.980] [renderer1] [info] Starting extension host with pid 1955.
+[2022-01-06 20:39:57.980] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 7 ms.
+[2022-01-06 20:39:58.318] [renderer1] [error] [Extension Host] (node:1955) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-06 20:40:31.719] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/npm/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/npm/package.json'
+[2022-01-06 20:40:31.719] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json'
+[2022-01-06 20:40:31.721] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json'
+[2022-01-06 20:40:31.721] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json'
+[2022-01-06 20:40:31.721] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json'
+[2022-01-06 20:40:31.722] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2022-01-06 20:40:31.722] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json'
+[2022-01-06 20:40:31.722] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2022-01-06 20:40:31.722] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json'
+[2022-01-06 20:40:31.722] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json'
+[2022-01-06 20:40:31.723] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json'
+[2022-01-06 20:40:31.723] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-06 20:40:31.723] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json'
+[2022-01-06 20:40:31.724] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json'
+[2022-01-06 20:40:31.725] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json'
+[2022-01-06 20:40:31.725] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json'
+[2022-01-06 20:40:31.725] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json'
+[2022-01-06 20:40:31.725] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json'
+[2022-01-06 20:40:31.726] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json'
+[2022-01-06 20:40:31.726] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json'
+[2022-01-06 20:40:31.727] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json'
+[2022-01-06 20:40:31.727] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json'
+[2022-01-06 20:40:31.727] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json'
+[2022-01-06 20:40:31.727] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json'
+[2022-01-06 20:40:31.727] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2022-01-06 20:40:31.728] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2022-01-06 20:40:31.728] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2022-01-06 20:40:31.728] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'
+[2022-01-06 20:40:31.728] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json'
+[2022-01-06 20:40:31.728] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json'
+[2022-01-06 20:40:31.728] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2022-01-06 20:40:31.729] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json'
+[2022-01-06 20:40:31.729] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json'
+[2022-01-06 20:40:31.729] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json'
+[2022-01-06 20:40:31.729] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json'
+[2022-01-06 20:40:31.730] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2022-01-06 20:40:31.730] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-06 20:40:31.730] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json'
+[2022-01-06 20:40:31.730] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css-language-features/package.json'
+[2022-01-06 20:41:12.394] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/npm/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/npm/package.json'
+[2022-01-06 20:41:12.395] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json'
+[2022-01-06 20:41:12.395] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json'
+[2022-01-06 20:41:12.395] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2022-01-06 20:41:12.395] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json'
+[2022-01-06 20:41:12.396] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json'
+[2022-01-06 20:41:12.396] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json'
+[2022-01-06 20:41:12.396] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json'
+[2022-01-06 20:41:12.396] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2022-01-06 20:41:12.396] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json'
+[2022-01-06 20:41:12.396] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json'
+[2022-01-06 20:41:12.397] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-06 20:41:12.397] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json'
+[2022-01-06 20:41:12.397] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json'
+[2022-01-06 20:41:12.397] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json'
+[2022-01-06 20:41:12.398] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json'
+[2022-01-06 20:41:12.398] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json'
+[2022-01-06 20:41:12.398] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json'
+[2022-01-06 20:41:12.398] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json'
+[2022-01-06 20:41:12.398] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json'
+[2022-01-06 20:41:12.398] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json'
+[2022-01-06 20:41:12.399] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json'
+[2022-01-06 20:41:12.399] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json'
+[2022-01-06 20:41:12.399] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2022-01-06 20:41:12.399] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json'
+[2022-01-06 20:41:12.399] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2022-01-06 20:41:12.399] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2022-01-06 20:41:12.400] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'
+[2022-01-06 20:41:12.400] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json'
+[2022-01-06 20:41:12.400] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json'
+[2022-01-06 20:41:12.400] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2022-01-06 20:41:12.400] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json'
+[2022-01-06 20:41:12.415] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json'
+[2022-01-06 20:41:12.416] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json'
+[2022-01-06 20:41:12.416] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2022-01-06 20:41:12.416] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json'
+[2022-01-06 20:41:12.416] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-06 20:41:12.416] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css-language-features/package.json'
+[2022-01-06 20:41:12.417] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json'
+[2022-01-06 20:43:11.867] [renderer1] [info] Starting extension host with pid 2483.
+[2022-01-06 20:43:11.867] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 19 ms.
+[2022-01-06 20:43:12.273] [renderer1] [error] [Extension Host] (node:2483) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-06 20:43:39.963] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2022-01-06 20:43:39.963] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2022-01-06 20:43:39.964] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-06 20:43:39.965] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/vb/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/vb/package.json'
+[2022-01-06 20:43:39.965] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-06 20:43:39.965] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json'
+[2022-01-06 20:43:39.966] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2022-01-06 20:43:39.966] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2022-01-06 20:43:39.967] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json'
+[2022-01-06 20:43:39.967] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json'
+[2022-01-06 20:43:39.967] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json'
+[2022-01-06 20:43:39.967] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'
+[2022-01-06 20:44:00.047] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:04.597] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:05.897] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:07.274] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:08.832] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:10.307] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:12.618] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:13.693] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:15.819] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:17.655] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:19.671] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:21.474] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)
+[2022-01-06 20:44:22.737] [renderer1] [error] Cannot read property 'range' of undefined: TypeError: Cannot read property 'range' of undefined
+	at H (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1129652)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135046
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1135038)
+	at /home/vvcaw/.vscode-oss/extensions/haskell.haskell-1.8.0/dist/extension.js:2:1061226
+	at async s.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167312)

@@ -1,0 +1,33 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/Operators">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Operators" projectWorkspaceId="23SVa217EmEj8tO4t7qUwErjYFS">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-213.6461.79" />
+              <option name="buildTimestamp" value="1640708211351" />
+              <frame x="965" y="-3" width="940" height="1068" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1641727546835" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/BWINF/Aufgabe2/OperatorenGenerator">
+          <value>
+            <RecentProjectMetaInfo frameTitle="OperatorenGenerator – Bruteforcer.hs" opened="true" projectWorkspaceId="23SVt8q20tQlcXz9nsjKzcefY67">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-213.6461.79" />
+              <option name="buildTimestamp" value="1640708211351" />
+              <frame x="1935" y="22" width="1890" height="1043" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1641727688102" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/dev/BWINF/Aufgabe2" />
+  </component>
+</application>
