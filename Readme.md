@@ -1,6 +1,9 @@
 # .dotfiles
 Just a small and minimal collection of dotfiles.
 
+## Disclaimer
+This repository is intended to be used as reference when building your own setup. It is intended to work on Archlinux. I cannot guarantee that all files / executables in this repository will work and not harm your computer!
+
 ## Requirements
 The *./install.sh* script installs all necessary applications, this should be run as a user (not as root) with sudo
 permissions.
